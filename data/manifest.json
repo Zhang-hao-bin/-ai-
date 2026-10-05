@@ -1,0 +1,10 @@
+{
+  "scope": "starter",
+  "description": "试用语料：第 3 节第 1 条、第 4 节第 1–14 条、第 8 节第 17–18 条；不是全书",
+  "fetched_on": "2026-10-05",
+  "upstream": "https://github.com/eternity4719/HowToLiveBetter",
+  "ref": "main",
+  "commit": null,
+  "license": "CC BY 4.0",
+  "method": "GitHub raw 文件的完整条目，保留原文；章节文件为节选"
+}
